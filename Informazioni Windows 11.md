@@ -21,7 +21,13 @@ TPM: 2.0 <br>
 GPU: Supporto Directx 12 <br>
 Storage >/=64 GB
 
+Windows S Mode è stato sostituito da Windows SE
+
 
 Internet: Necessario Account Microsoft per completare l'installazione di Windows 11 Home
 
 Verifica se il tuo PC supporta Windows 11 con questo tool <a href="https://github.com/rcmaehl/WhyNotWin11">LINK</a>
+
+Sarà Possibile Aggiornare?
+  Microsoft rilascerà Windows 11 nel Q4 (Quarto Trimestre = Ultimi 3 mesi dell'anno) ma solo per le nuove installazione, mentre come aggiornamento gratuito per tutti gli utenti Windows 10 solo nei primi mesi del 2022 (secondo ultime dichiarazioni)
+  Per il momento è possibile utilizzare Windows 11 accedendo al canale DEV (canale 
