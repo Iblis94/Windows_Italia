@@ -32,8 +32,20 @@ Verifica se il tuo PC supporta Windows 11 con questo tool <a href="https://githu
 
 Microsoft rilascerà Windows 11 nel Q4 (Quarto Trimestre = Ultimi 3 mesi dell'anno) ma solo per le nuove installazione, mentre come aggiornamento gratuito per tutti gli utenti Windows 10 solo nei primi mesi del 2022 (secondo ultime dichiarazioni) <br>
   
-Per il momento è possibile utilizzare Windows 11 accedendo al canale DEV (Informazioni a Riguardo <a href="https://raw.githubusercontent.com/Iblis94/Windows_Italia/566154a79b598ef825348892414ff924f7fd8579/be63c233f03586473dc5a970f53d284d.png">QUI</a>
+Per il momento è possibile utilizzare Windows 11 accedendo al canale DEV
+
+![image](https://user-images.githubusercontent.com/83124712/123716772-b558ba00-d87b-11eb-8665-4b057728ce02.png)
 
 Novità Aggiornamenti: Microsoft ha dichiarato che i nuovi major update (per intenderci le versioni 20h1, 20h2, 21h1, 21h2 ecc.) saranno ora a rilascio annuale (probabilmente nel mese di maggio), stesso dicasi per i futuri aggiornamenti di Windows 11 <br>
 Il Rilascio di Windows 11 non inficerà il rilascio dei futuri aggiornamenti di Windows 10 (che sarà aggiornato ancora fino al 2025, in base a quanto dichiarato da Microsoft)
+
+Novità Interfaccia:
+Personalizzazione Desktop Virtuali (Cambiare Sfondi e altro)
+Chat: una versione Potenziata di Teams preinstallata su Windows 11 che andrà a sostituire Skype come piattaforma principale di Microsoft e che strizza molto l'occhio a iMessage, FaceTime. Sembra che si potranno anche inviare SMS ai dispositivi Android ed iOS (ancora non si sa se utilizzando il sistema degli SMS o se sarà necessario Teams installato anche sugli smartphone)
+
+Snap Layouts/Snap Groups
+
+![image](https://user-images.githubusercontent.com/83124712/123716739-a07c2680-d87b-11eb-8541-1661474e24fb.png)
+
+Permetterà di salvare la posizione di finestre ordinate in un preciso modo sullo schermo (e su schermi esterni aggiuntivi) che potranno essere richiamati molto facilmente. Windows 11 permetterà anche una sistemazione delle finestre a schermo in maniera semplice ed intuitiva (con comodi bottoni per decidere la posizione e la grandezza), impostazioni che cambieranno in base alla risoluzione e all'aspect ratio dello schermo = sarà diverso tra schermi 16:9 FHD, 21:9 4K ecc.
 
