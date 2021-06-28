@@ -1,6 +1,6 @@
 Informazioni Windows 11
 
-<img src="https://raw.githubusercontent.com/Iblis94/Windows_Italia/main/Introducing-Windows-11-iiQ8-Update-Microsoft-Windows11-Free.jpg" width="699" height="393">
+![image](https://user-images.githubusercontent.com/83124712/123717591-70ce1e00-d87d-11eb-8ecc-f262e420662b.png)
 
 Windows 11 è il nuovo OS (Sistema Operativo) di casa Microsoft, basato su Windows 10 (su cui è basata la prima versione dev pubblicata attualmente)
 
