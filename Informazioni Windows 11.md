@@ -12,13 +12,13 @@ Processori Supportati
 <a href="https://docs.microsoft.com/en-us/windows-hardware/design/minimum/supported/windows-11-supported-amd-processors">AMD</a> ///
 <a href="https://docs.microsoft.com/en-us/windows-hardware/design/minimum/supported/windows-11-supported-qualcomm-processors">Qualcomm</a>
 
-Windows 11 sarà solo a 64bit = le versioni 32bit non saranno supportate da Microsoft
-CPU: Frequenza >/=1 GHz, Core >/=2
+Windows 11 sarà solo a 64bit = le versioni 32bit non saranno supportate da Microsoft <br>
+CPU: Frequenza >/=1 GHz, Core >/=2 <br>
 Ram: 4 GB <br>
 Bios: UEFI + Secure Boot <br>
 Tabelle Partizioni Disco: GPT <br>
-TPM: 2.0
-GPU: Supporto Directx 12
+TPM: 2.0 <br>
+GPU: Supporto Directx 12 <br>
 Storage >/=64 GB
 
 
