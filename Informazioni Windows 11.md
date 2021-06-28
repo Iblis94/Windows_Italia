@@ -8,7 +8,13 @@ Principali Novità
 
 Processori Supportati
 
-
-<a href="https://docs.microsoft.com/en-us/windows-hardware/design/minimum/supported/windows-11-supported-intel-processors">Intel</a>
-<a href="https://docs.microsoft.com/en-us/windows-hardware/design/minimum/supported/windows-11-supported-amd-processors">AMD</a>
+<a href="https://docs.microsoft.com/en-us/windows-hardware/design/minimum/supported/windows-11-supported-intel-processors">Intel</a> ///
+<a href="https://docs.microsoft.com/en-us/windows-hardware/design/minimum/supported/windows-11-supported-amd-processors">AMD</a> ///
 <a href="https://docs.microsoft.com/en-us/windows-hardware/design/minimum/supported/windows-11-supported-qualcomm-processors">Qualcomm</a>
+
+Ram: 4 GB
+Bios: UEFI + Secure Boot
+Tabelle Partizioni Disco: GPT
+TPM: 2.0
+
+Internet: Necessario Account Microsoft per completare l'installazione di Windows 11 Home
