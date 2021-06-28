@@ -41,7 +41,12 @@ Il Rilascio di Windows 11 non inficerà il rilascio dei futuri aggiornamenti di 
 
 Novità Interfaccia:
 Personalizzazione Desktop Virtuali (Cambiare Sfondi e altro)
-Chat: una versione Potenziata di Teams preinstallata su Windows 11 che andrà a sostituire Skype come piattaforma principale di Microsoft e che strizza molto l'occhio a iMessage, FaceTime. Sembra che si potranno anche inviare SMS ai dispositivi Android ed iOS (ancora non si sa se utilizzando il sistema degli SMS o se sarà necessario Teams installato anche sugli smartphone)
+
+Chat:
+
+![image](https://user-images.githubusercontent.com/83124712/123716831-dae5c380-d87b-11eb-8942-abdef03f22b7.png)
+
+una versione Potenziata di Teams preinstallata su Windows 11 che andrà a sostituire Skype come piattaforma principale di Microsoft e che strizza molto l'occhio a iMessage, FaceTime. Sembra che si potranno anche inviare SMS ai dispositivi Android ed iOS (ancora non si sa se utilizzando il sistema degli SMS o se sarà necessario Teams installato anche sugli smartphone)
 
 Snap Layouts/Snap Groups
 
@@ -49,3 +54,9 @@ Snap Layouts/Snap Groups
 
 Permetterà di salvare la posizione di finestre ordinate in un preciso modo sullo schermo (e su schermi esterni aggiuntivi) che potranno essere richiamati molto facilmente. Windows 11 permetterà anche una sistemazione delle finestre a schermo in maniera semplice ed intuitiva (con comodi bottoni per decidere la posizione e la grandezza), impostazioni che cambieranno in base alla risoluzione e all'aspect ratio dello schermo = sarà diverso tra schermi 16:9 FHD, 21:9 4K ecc.
 
+Game:
+Auto HDR: conversione automatica delle immagini SDR (Standard Dynamic Range) in HDR (High Dynamic Range) = permetterà di avere immagini di gioco molto più nitide, migliori contrasti e colori più vividi. Necessario avere un Monitor HDR per utilizzare questa feature
+
+Direct Storage: feature già presente nelle Xbox di ultima generazione. permetterà al gioco di avere accesso diretto dallo Storage alla GPU (Directx12), senza andare ad interessare la CPU (in gran parte). non si sa ancora se lo storage debba avere una tecnologia PCI 4.0 (ed essere collegato ad una MOBO che lo supporti) o se valga anche per gli ssd PCI 3.0. le GPU compatibili sono le serie 2000 e 3000 di NVidia e le RDNA 2 di AMD
+
+Xbox GamePass e Cloud Gaming Integration: integrazione più profonda delle app di xbox in windows 11 con possibilità di stremmare i giochi più facilmente sul PC. per utilizzare il Game Pass sarà necessario un abbonamento Ultimate
