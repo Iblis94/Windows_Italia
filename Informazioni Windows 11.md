@@ -57,6 +57,15 @@ Permetterà di salvare la posizione di finestre ordinate in un preciso modo sull
 Game:
 Auto HDR: conversione automatica delle immagini SDR (Standard Dynamic Range) in HDR (High Dynamic Range) = permetterà di avere immagini di gioco molto più nitide, migliori contrasti e colori più vividi. Necessario avere un Monitor HDR per utilizzare questa feature
 
+![image](https://user-images.githubusercontent.com/83124712/123717340-edacc800-d87c-11eb-9490-c8e18584b44f.png)
+
+
 Direct Storage: feature già presente nelle Xbox di ultima generazione. permetterà al gioco di avere accesso diretto dallo Storage alla GPU (Directx12), senza andare ad interessare la CPU (in gran parte). non si sa ancora se lo storage debba avere una tecnologia PCI 4.0 (ed essere collegato ad una MOBO che lo supporti) o se valga anche per gli ssd PCI 3.0. le GPU compatibili sono le serie 2000 e 3000 di NVidia e le RDNA 2 di AMD
 
+![image](https://user-images.githubusercontent.com/83124712/123717423-2056c080-d87d-11eb-9189-2c26483e115b.png)
+
+
 Xbox GamePass e Cloud Gaming Integration: integrazione più profonda delle app di xbox in windows 11 con possibilità di stremmare i giochi più facilmente sul PC. per utilizzare il Game Pass sarà necessario un abbonamento Ultimate
+
+![image](https://user-images.githubusercontent.com/83124712/123717446-2c428280-d87d-11eb-8d8e-50908105758d.png)
+
