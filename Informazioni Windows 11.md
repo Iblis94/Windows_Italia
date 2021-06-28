@@ -18,3 +18,5 @@ Tabelle Partizioni Disco: GPT <br>
 TPM: 2.0
 
 Internet: Necessario Account Microsoft per completare l'installazione di Windows 11 Home
+
+Verifica se il tuo PC supporta Windows 11 con questo tool <a href="https://github.com/rcmaehl/WhyNotWin11">LINK</a>
