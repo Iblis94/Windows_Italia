@@ -7,7 +7,7 @@ Custom ISO
 
 ![image](https://user-images.githubusercontent.com/83124712/123740738-34b0b280-d8a9-11eb-8421-86ec44600af1.png)
 
-![image](https://user-images.githubusercontent.com/83124712/123740863-645fba80-d8a9-11eb-84e0-12b75c364678.png)
+![image](https://user-images.githubusercontent.com/83124712/123744912-c4f1f600-d8af-11eb-94f4-23e3cc928937.png)
 
 ![image](https://user-images.githubusercontent.com/83124712/123740963-8e18e180-d8a9-11eb-9849-4c9a2775a96f.png)
 
