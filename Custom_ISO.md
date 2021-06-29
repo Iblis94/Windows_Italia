@@ -4,6 +4,8 @@ Custom ISO
 <a href="https://drive.google.com/u/0/uc?id=1qh8AvZr6mDXepX162TWAorO8OWwUInfs&export=download">Versione Pro</a> 
  
 Condizioni Generali PC (Storage, Menù Start, Ram)
+
+
 ![image](https://user-images.githubusercontent.com/83124712/123740738-34b0b280-d8a9-11eb-8421-86ec44600af1.png)
 
 ![image](https://user-images.githubusercontent.com/83124712/123744912-c4f1f600-d8af-11eb-94f4-23e3cc928937.png)
