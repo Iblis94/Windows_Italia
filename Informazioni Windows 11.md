@@ -119,3 +119,13 @@ Restayling Paint e Notepad
 
 
 informative varie https://www.xda-developers.com/windows-11/
+
+TPM https://www.xda-developers.com/how-to-check-pc-tpm-windows-11-upgrade/
+
+Uso di Windows 
+![image](https://user-images.githubusercontent.com/83124712/123732781-b5b47d80-d89a-11eb-983a-16029fdee90a.png)
+
+accedere al canale DEV https://www.xda-developers.com/how-to-prepare-pc-windows-11-beta/
+
+problemi dev release https://www.xda-developers.com/known-issues-windows-11-build-22000-51/
+
