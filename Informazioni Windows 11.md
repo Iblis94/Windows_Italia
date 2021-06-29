@@ -77,3 +77,20 @@ Touchscreen: aumento spazio fra icone, icone più grandi, nuove gesture per ingr
 ![image](https://user-images.githubusercontent.com/83124712/123728646-e349f880-d893-11eb-8637-6c02160f2dff.png)
 
 Microsoft Store: rifacimento grafico dello store con inclusione film, giochi e tanto altro. la funzione più importante è sicuramente il supporto alle Android Apps (tramite il supporto dell'Amazon Appstore), ma si ritiene che tutte le apk potranno essere utilizzate/installate
+
+![image](https://user-images.githubusercontent.com/83124712/123728935-6e2af300-d894-11eb-9745-f283c4c58f4c.png)
+
+il microsoft store ora supporta applicazioni: UWP, Win32, .NET, Xamarin, Electron, React Native, Java e PWA
+
+Funzioni Rimosse:
+Cortana: rimosso dalla prima schermata di installazione e dalla taskbar
+Internet Explorer: disattivato in favore di Microsoft Edge
+Math Input Panel
+Notizie ed Interessi: il widget ora farà parte della nuova schermata dei Widget
+S Mode: disponibile solo per Windows 11 Home
+Snipping Tool (Cattura e Annota): rimpiazzato da Snip & Sketch
+Start è stato considerevolmente rivisto e migliorato con la rimozione dei live tiles
+Tablet Mode
+Timeline
+Taskbar (Barra di Start): Icona Persone Rimossa, app posizionate al centro della barra (invece che a lato)
+App non preinstallate: Wallet, Paint 3d, 3d viewer, onenote per windows 10, skype
