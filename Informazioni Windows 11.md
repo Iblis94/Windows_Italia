@@ -94,3 +94,15 @@ Tablet Mode
 Timeline
 Taskbar (Barra di Start): Icona Persone Rimossa, app posizionate al centro della barra (invece che a lato)
 App non preinstallate: Wallet, Paint 3d, 3d viewer, onenote per windows 10, skype
+
+Pannello Widget: "una lastra di vetro sul vostro PC" possibilità di personalizzare i widget con produzioni microsoft e di terze parti (che usciranno in futuro)
+
+![image](https://user-images.githubusercontent.com/83124712/123729926-05dd1100-d896-11eb-8091-72990edfee5c.png)
+
+Esplora Risorse: resedign completo dell'interfaccia (per assomigliare maggiormente a KDE Plasma o allo stile macOS), stesso dicasi per il menù delle impostazioni
+
+![image](https://user-images.githubusercontent.com/83124712/123730210-5bb1b900-d896-11eb-8d39-23052de8fe52.png)
+
+![image](https://user-images.githubusercontent.com/83124712/123730537-c9f67b80-d896-11eb-9ae0-fa05fad8596b.png)
+
+
