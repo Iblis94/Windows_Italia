@@ -23,6 +23,9 @@ Storage >/=64 GB
 
 Windows S Mode è stato sostituito da Windows SE
 
+![image](https://user-images.githubusercontent.com/83124712/123728871-56536f00-d894-11eb-9350-6f5796b89079.png)
+
+
 
 Internet: Necessario Account Microsoft per completare l'installazione di Windows 11 Home
 
@@ -69,3 +72,8 @@ Xbox GamePass e Cloud Gaming Integration: integrazione più profonda delle app d
 
 ![image](https://user-images.githubusercontent.com/83124712/123717446-2c428280-d87d-11eb-8d8e-50908105758d.png)
 
+Touchscreen: aumento spazio fra icone, icone più grandi, nuove gesture per ingrandire le finestre, miglioramento stylus input, miglioramento feedback aptico dello stylus, miglioramento touch keyboard (con supporto alle emoji)
+
+![image](https://user-images.githubusercontent.com/83124712/123728646-e349f880-d893-11eb-8637-6c02160f2dff.png)
+
+Microsoft Store: rifacimento grafico dello store con inclusione film, giochi e tanto altro. la funzione più importante è sicuramente il supporto alle Android Apps (tramite il supporto dell'Amazon Appstore), ma si ritiene che tutte le apk potranno essere utilizzate/installate
