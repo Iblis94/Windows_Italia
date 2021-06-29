@@ -76,7 +76,7 @@ Touchscreen: aumento spazio fra icone, icone più grandi, nuove gesture per ingr
 
 ![image](https://user-images.githubusercontent.com/83124712/123728646-e349f880-d893-11eb-8637-6c02160f2dff.png)
 
-Microsoft Store: rifacimento grafico dello store con inclusione film, giochi e tanto altro. la funzione più importante è sicuramente il supporto alle Android Apps (tramite il supporto dell'Amazon Appstore), ma si ritiene che tutte le apk potranno essere utilizzate/installate
+Microsoft Store: rifacimento grafico dello store con inclusione film, giochi e tanto altro. la funzione più importante è sicuramente il supporto alle Android Apps (tramite il supporto dell'Amazon Appstore), ma si ritiene che tutte le apk potranno essere utilizzate/installate, escluse le app che necessitano dei servizi google per funzionare
 
 ![image](https://user-images.githubusercontent.com/83124712/123728935-6e2af300-d894-11eb-9745-f283c4c58f4c.png)
 
@@ -105,4 +105,17 @@ Esplora Risorse: resedign completo dell'interfaccia (per assomigliare maggiormen
 
 ![image](https://user-images.githubusercontent.com/83124712/123730537-c9f67b80-d896-11eb-9ae0-fa05fad8596b.png)
 
+il funzionamento delle app di android (WSA) sarà simile al funzionamento del WSL di linux. dato che molte app android sono basate su processori ARM. Microsoft ha lavorato insieme ad Intel per utilizzare le nuove tecnologie Intel Bridge https://www.intel.com/content/www/us/en/newsroom/news/intel-tech-unleashes-windows-experience.html#gs.4i76g9
 
+![image](https://user-images.githubusercontent.com/83124712/123731054-b8fa3a00-d897-11eb-8fd7-c6e21c9b1d5e.png)
+
+Tasto Microfono: permetterà di mutare o smutare il microfono direttamente dalla taskbar per qualsiasi app
+
+![image](https://user-images.githubusercontent.com/83124712/123731835-425e3c00-d899-11eb-9cca-31646cc5e0ac.png)
+
+Restayling Paint e Notepad 
+
+![image](https://user-images.githubusercontent.com/83124712/123731886-5a35c000-d899-11eb-9b51-6607e7a4a3f6.png)
+
+
+informative varie https://www.xda-developers.com/windows-11/
