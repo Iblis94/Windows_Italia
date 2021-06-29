@@ -37,3 +37,22 @@ Rimosso:
 - Wordpad
 
 Ogni Applicazione Normalmente Installata su Windows (es. Film e TV) potrà essere reinstallata dal Microsoft Store
+
+
+Questa ISO è totalmente Legit, quindi potete usare tranquillamente il vostro product key per attivarla. è una ISO ottenuta con il programma <a href="https://msmgtoolkit.in/?i=1">MSMG Toolkit</a>. i settaggi utilizzati per fare questa ISO sono:
+1 Internet
+Lasciare Internet Explorer
+2 Multimedia
+lasciare Media Player e Photo Viewer
+3 Pricavy
+Lasciare Assigned Access, Face Recognition, Kernel Debugging, Picture Password, Pin SignIn Support, Asimov, Windows Error Reporting
+4 Remoting
+Lasciare Home Group e Multipoint Connector
+5 System
+Lasciare Device Lockdown, Ease of Access Themes, Easy Transfer, Manual Setup, Paint, Windows Firewall, Windows Subsystem for Linux
+6 System Apps
+Lasciare Assigned Access Lock App, Azure Active Directory Appx Broker Plugin, Bio Enrollment App, Calling Shell App, Camera Barcode Scanner, Eye Control App, Lockscreen App, SmartScreen
+7 Windows Apps
+Lasciare Services Store Engagement, Store Purchase App, Windows Store App, Xbox Console Companion, Xbox Identity Provider
+7 Customize: 2, 5
+8: Tutto Tranne Blocco Windows Update
