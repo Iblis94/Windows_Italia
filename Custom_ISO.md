@@ -39,6 +39,8 @@ Rimosso:
 Ogni Applicazione Normalmente Installata su Windows (es. Film e TV) potrà essere reinstallata dal Microsoft Store
 
 
+
+
 Questa ISO è totalmente Legit, quindi potete usare tranquillamente il vostro product key per attivarla. è una ISO ottenuta con il programma <a href="https://msmgtoolkit.in/?i=1">MSMG Toolkit</a>. i settaggi utilizzati per fare questa ISO sono:
 1 Internet
 Lasciare Internet Explorer
